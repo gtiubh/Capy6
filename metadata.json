@@ -1,0 +1,6 @@
+{
+  "name": "CapyBrüche - Mathe 6. Klasse",
+  "description": "Fesselndes Mathe-Übungsspiel für die 6. Klasse am Gymnasium: Brüche als Anteile, Erweitern & Kürzen, Vergleichen, Zahlenstrahl & gemischte Zahlen mit Capybara-Belohnungen und Mini-Spielen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
